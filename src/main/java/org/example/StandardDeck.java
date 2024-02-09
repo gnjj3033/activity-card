@@ -63,6 +63,7 @@ public class StandarDeck implements Deck{
 
     @Override
     public int size() {
+
         return this.cards.size();
     }
 
